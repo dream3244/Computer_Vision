@@ -9,3 +9,6 @@ This repository provide code and supporting materials for competitions.
 ## 2021 HITsz Mathematical Modeling Contest 	
 ### 2021 HITsz Mathematical Modeling Contest
 ### Project: Motion Segmentation in MEMS Inertial Sensors Based on Moving Average Filter
+
+#### acknowledgement: 
+* Thanks for the support and effort of CRW and SQ. 
