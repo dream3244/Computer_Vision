@@ -1,4 +1,4 @@
-# HITsz Mathematical Modeling Contest in 2021	03/2022
+# HITsz Mathematical Modeling Contest in 2021
 ## Project: Motion Segmentation in MEMS Inertial Sensors Based on Moving Average Method
 
 * Data preprocessing: reduce the noise of the data using the Moving Average method.
