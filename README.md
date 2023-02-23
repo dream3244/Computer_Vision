@@ -1,5 +1,12 @@
 # Competitions
 This repository provide code and supporting materials for competitions. 
+
+
+
+## acknowledgement: 
+### Thanks for the support and effort of CRW and SQ. 
+
+
 ## CUMCM 2022 
 ### Contemporary Undergraduate Mathematical Contest in Modeling in 2022
 ### Project: Chemical Composition Analysis and Classification of Ancient Glass Based on Multivariate Statistical Analysis 
@@ -37,5 +44,3 @@ This repository provide code and supporting materials for competitions.
 5. make predictions of the start and stops points for each motion.
 
 
-## acknowledgement: 
-### Thanks for the support and effort of CRW and SQ. 
