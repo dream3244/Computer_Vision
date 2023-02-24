@@ -1,0 +1,2 @@
+## Dirchlet regression 
+using R
