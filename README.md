@@ -6,6 +6,9 @@ This repository provide code and supporting materials for competitions.
 ## acknowledgement: 
 ### Thanks for the support and effort of CRW and SQ. 
 
+## MCM2023
+### Cracking the code: Twitter data insights into Wordle game 
+
 
 ## CUMCM 2022 
 ### Contemporary Undergraduate Mathematical Contest in Modeling in 2022
