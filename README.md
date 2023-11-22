@@ -2,8 +2,8 @@
 This repository provide code and supporting materials for computer vision projects. 
 
 
-## 3d modelling and motion reconstruction
-### Project 1:  Optical efficiency calculation and layout optimization of tower heliostat field
+## 1. 3d modelling and motion reconstruction
+### 1.1 Project 1:  Optical efficiency calculation and layout optimization of tower heliostat field
 
 塔式定日镜场光效计算及布局优化(CUMCM2023)
 
@@ -13,7 +13,7 @@ This repository provide code and supporting materials for computer vision projec
 4. For layout optimization, we use fixed step size search and heuristic algorithm of particle swarm to derive the best location of the absorption tower.
 
 
-### Project 2: Motion Segmentation in MEMS Inertial Sensors Based on Moving Average Filter
+### 1.2 Project 2: Motion Segmentation in MEMS Inertial Sensors Based on Moving Average Filter
 
 基于移动平均滤波器的 MEMS 惯性传感器运动分割
 
@@ -26,7 +26,7 @@ This repository provide code and supporting materials for computer vision projec
 5. make predictions of the start and stops points for each motion.
 
 
-### Project 3: Three-dimensional motion reconstruction based on orthogonal scale projection
+### 1.3 Project 3: Three-dimensional motion reconstruction based on orthogonal scale projection
 
 基于正交尺度投影的三维运动重建
 
@@ -35,5 +35,14 @@ This repository provide code and supporting materials for computer vision projec
 1. Investigate monocular vision 3d motion reconstruction methods.
 2. Build the orthogonal scale projection model for 3D-motion recovery based on the human body tree skeleton model.
 3. 	Parameter Estimation motion reconstruction in single frame image.
-4. 3D optimization using Kalman filter and low-pass filter to perform on the three-dimensional coordinate sequence. 
+4. 3D optimization using Kalman filter and low-pass filter to perform on the three-dimensional coordinate sequence.
 
+## 2. object detection (yolov5)
+* Digital twin applied in Smart machine room management
+* China-tele intern
+* description:
+**Object detection and image segmentation**:
+Training YoloV5 model using Pytorch in self-labeled machine room images, and Java backend interface implementation(Inference) using DJL.
+
+## 3. image classification(JS-PAN)
+see deep learning repository: https://github.com/dream3244/Deep-Learning/tree/main/JS-PAN
