@@ -1,5 +1,0 @@
-library(pls)
-data<-read.csv("难度分档结果.csv")
-model<-plsr(grade~e+t+a+o+i+th+he+in.+er+an+Frequency+Char_repitions,data=data,scale=TRUE,validation="CV")
-summary(model)
-validationplot(model)
