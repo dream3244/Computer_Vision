@@ -10,8 +10,16 @@ This repository provide code and supporting materials for competitions.
 ### Cracking the code: Twitter data insights into Wordle game 
 
 
-## CUMCM 2022 
-### Contemporary Undergraduate Mathematical Contest in Modeling in 2022
+## Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+### CUMCM in 2023
+### Project:  Optical efficiency calculation and layout optimization of tower heliostat field
+
+1.	Construct the heliostat tracking control model based on law of light reflection.
+2. To obtain the optical efficiency, we calculate the atmospheric transmittance, cosine efficiency, shadow shielding efficiency and collector cutoff efficiency
+3. For 3d-modelling, we use optical cone coordinate system and Monte Carlo ray tracing method. 
+4. For layout optimization, we use fixed step size search and heuristic algorithm of particle swarm to derive the best location of the absorption tower.
+
+### CUMCM in 2022
 ### Project: Chemical Composition Analysis and Classification of Ancient Glass Based on Multivariate Statistical Analysis 
 
 1.	Data preprocessing: Filter the valid data and create dummy variables for glass attributes.
@@ -35,7 +43,7 @@ This repository provide code and supporting materials for competitions.
 3. Predict the trend of future electricity load consumption in 4 main types of industries and make suggestions respectively.
 
 
-## 2021 HITsz Mathematical Modeling Contest 	
+## HITsz Mathematical Modeling Contest 	
 ### 2021 HITsz Mathematical Modeling Contest
 ### Project: Motion Segmentation in MEMS Inertial Sensors Based on Moving Average Filter
 
@@ -46,4 +54,11 @@ This repository provide code and supporting materials for competitions.
 4. Determine the weights for acceleration and velocity. 
 5. make predictions of the start and stops points for each motion.
 
+### 2022 HITsz Mathematical Modeling Contest
+### Project: Three-dimensional motion reconstruction based on orthogonal scale projection
+
+1. Investigate monocular vision 3d motion reconstruction methods.
+2. Build the orthogonal scale projection model for 3D-motion recovery based on the human body tree skeleton model.
+3. 	Parameter Estimation motion reconstruction in single frame image.
+4. 3D optimization using Kalman filter and low-pass filter to perform on the three-dimensional coordinate sequence. 
 
