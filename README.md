@@ -9,6 +9,10 @@ This repository provide code and supporting materials for competitions.
 ## MCM2023
 ### Cracking the code: Twitter data insights into Wordle game 
 
+1.	Prediction of number of Wordle game players: Establish the Improved Prophet Model Based On GBRT to explain the daily variation of total reports number and perform prediction. And deduce the Negative Exponential Model and choose the Prophet Forecasting Model to capture the seasonal effects and the Gradient Boosting Regression Tree model to model the residual.
+2.	Modeling compositional data and predicting the distribution of word difficulty: Develop the Distribution Prediction Model Based on Dirichlet Regression to handle the flexible correlation structure among the components, then estimate the confidence interval.
+3.	Word difficulty classification model: Using the Multivariate Logistic Regression Model to explain the corresponding word's attributes by analyzing the coefficients. By adding a certain ratio of disturbance into our input distribution data, we analyze the sensitivity of our classification model and get a high F1-score over 0.875 with a disturbance under 6%.
+
 
 ## Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
 ### CUMCM in 2023
