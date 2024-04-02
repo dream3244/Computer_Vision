@@ -6,7 +6,7 @@ This repository provide code and supporting materials for computer vision projec
 ### 1.1 Project 1:  Optical efficiency calculation and layout optimization of tower heliostat field
 
 塔式定日镜场光效计算及布局优化(CUMCM2023)
-
+see https://github.com/dream3244/Competitions/tree/main/CUMCM2023 for details.
 1.	Construct the heliostat tracking control model based on law of light reflection.
 2. To obtain the optical efficiency, we calculate the atmospheric transmittance, cosine efficiency, shadow shielding efficiency and collector cutoff efficiency
 3. For 3d-modelling, we use optical cone coordinate system and Monte Carlo ray tracing method. 
@@ -14,7 +14,7 @@ This repository provide code and supporting materials for computer vision projec
 
 
 ### 1.2 Project 2: Motion Segmentation in MEMS Inertial Sensors Based on Moving Average Filter
-
+see https://github.com/dream3244/Competitions/tree/main/2021%20HITsz%20Mathematical%20Modeling%20Contest for details.
 基于移动平均滤波器的 MEMS 惯性传感器运动分割
 
 (2021 HITsz Mathematical Modeling Contest)
@@ -27,7 +27,7 @@ This repository provide code and supporting materials for computer vision projec
 
 
 ### 1.3 Project 3: Three-dimensional motion reconstruction based on orthogonal scale projection
-
+see https://github.com/dream3244/Competitions/tree/main/2022%20Hitsz%20Mathematical%20modelling%20competition for details
 基于正交尺度投影的三维运动重建
 
 ( 2022 HITsz Mathematical Modeling Contest)
